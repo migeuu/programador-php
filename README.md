@@ -1,7 +1,5 @@
 # Teste prático - Programador(a) PHP – Laravel
 
-[![N|BH Softwares](https://objects-us-east-1.dream.io/bhsoftwares/uploads/img/logov2.png)](https://bhsoftwares.com.br/)
-
 **Desenvolver uma aplicação simples utilizando [Laravel 5](https://laravel.com/).**
 O objetivo desta avaliação é medir o nível de conhecimento do candidato nas áreas em que a vaga será exigida.
 
@@ -79,5 +77,3 @@ Criar um gerenciamento aonde seja possível Criar, Listar, Editar e Visualizar u
 - Não precisa ser complexo, com varias lib’s e etc. 
 - O legal é usar o necessário para ter um código de qualidade e de fácil evolução. 
 - Lembrando código de qualidade, você pode e deve fazer o que achar necessário para isso, mesmo que não esteja listado aqui. 
-
-Em caso de dúvidas, envie-nos um e-mail para contato@bhsoftwares.com.br 
